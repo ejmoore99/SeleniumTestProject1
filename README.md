@@ -1,7 +1,8 @@
-# SeleniumTestProject1
+# Selenium Test Project1
  
 This project demonstrates how to automate a Google search using Selenium WebDriver in Python. The script opens Google, performs a search for a specific query, waits for the search results to load, and prints the titles of the search results.
 
+https://github.com/ejmoore99/SeleniumTestProject1/assets/155325780/64ab2b88-623c-4b2d-aaa8-b27fcf00d2c1
 
 ## Project Description
 
